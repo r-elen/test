@@ -1,0 +1,17 @@
+#MapContainer {
+    position:relative;
+    border: 3px outset;
+    height:300px;
+    width:500px;
+    transition: all;
+    }
+
+#MapContainer:hover {
+    border: 3px outset;
+    }
+
+#Map {
+    position: absolute;
+    margin: 0 auto;
+    padding: 4px;
+    }
